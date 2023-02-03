@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/NumberSystem/NumberSystem.iml" filepath="$PROJECT_DIR$/NumberSystem/NumberSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Problems/Problem1Assignment1/Problem1Assignment1.iml" filepath="$PROJECT_DIR$/Array/Problems/Problem1Assignment1/Problem1Assignment1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Problems/Problems.iml" filepath="$PROJECT_DIR$/Array/Problems/Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.*;
 import java.util.Scanner;
 
 public class Reverse {
@@ -26,16 +27,21 @@ public class Reverse {
 //        for (int i = list.size()-1; i>=0 ; i--){
 //            System.out.print(list.get(i) + " ");
 //        }
+//
+//        int j = list.size()-1;
+//        for (int i = 0; i<j; i++){
+//            Integer temp = list.get(i);
+//            list.set(i, list.get(j));
+//            list.set (j, temp);
+//            j--;
+//        }
+//
+//        System.out.print(list + " ");
 
-        int j = list.size()-1;
-        for (int i = 0; i<j; i++){
-            Integer temp = list.get(i);
-            list.set(i, list.get(j));
-            list.set (j, temp);
-            j--;
-        }
 
-        System.out.print(list + " ");
+         List<List<Integer>> t = new ArrayList();
+         t.add(Arrays.asList(1));
+        System.out.println(t);
 
     }
 }
